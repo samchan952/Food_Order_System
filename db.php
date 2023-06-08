@@ -11,10 +11,10 @@ session_start();
 *
 */
 
-$server = "sql110.epizy.com";
-$user   = "epiz_33710871";
-$pass   = "NwBb4M5tWlsO";
-$data   = "epiz_33710871_food_order";
+// $server = "sql110.epizy.com";
+// $user   = "epiz_33710871";
+// $pass   = "NwBb4M5tWlsO";
+// $data   = "epiz_33710871_food_order";
 
 // $server = "localhost";
 // $user   = "root";
